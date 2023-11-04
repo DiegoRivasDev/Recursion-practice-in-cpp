@@ -1,4 +1,4 @@
-# Recursion-practice-in-cpp
+# Recursion practice in cpp
 Recursion is used to perform mathematical operations concatenate variable words among others.
 
 

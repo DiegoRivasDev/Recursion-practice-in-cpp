@@ -9,7 +9,7 @@ Recursion is used to perform mathematical operations concatenate variable words 
                 
 ----
 
-[![3.png](https://i.postimg.cc/L5TXw6k4/3.png)](https://postimg.cc/zHy8RNP4)
+[![3.png](https://i.postimg.cc/6phkZ4Wp/3.png)](https://postimg.cc/sMvHdXGk)
 
 # Take a look at my website
  :earth_americas: [Diego Rivas | Software engineer & Developer](https://diegorivasdev.github.io)
